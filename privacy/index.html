@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mindrop Privacy Policy</title>
+<meta name="description" content="Privacy policy for Mindrop: Flashcards & Study (Android).">
+<style>
+  :root { --bg:#FBF9F6; --fg:#1d2522; --muted:#5b6662; --accent:#043E34; --line:#e4e0d9; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#111614; --fg:#e8ece9; --muted:#9aa6a1; --accent:#7fd1b9; --line:#2a332f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 1.9rem; line-height:1.25; margin:0 0 4px; color:var(--accent); }
+  h2 { font-size: 1.2rem; margin: 2.2em 0 .5em; padding-top: .8em; border-top:1px solid var(--line); }
+  .meta { color:var(--muted); margin:0 0 1.5em; }
+  a { color:var(--accent); }
+  table { width:100%; border-collapse:collapse; font-size:.95rem; }
+  th, td { text-align:left; vertical-align:top; padding:8px; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  .wrap { overflow-x:auto; }
+  nav a { margin-right: 12px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Privacy Policy</h1>
+  <p class="meta">Mindrop: Flashcards &amp; Study (Android, package <code>io.github.namhoai1210.mindrop</code>)<br>
+  Effective date: November 1, 2026</p>
+  <nav><a href="#en">English</a><a href="#vi">Tiếng Việt</a></nav>
+
+  <section id="en">
+  <p>This policy explains what information the Mindrop app ("the app", "we") handles, why, and the choices you have. Mindrop is built so that your study content stays on your device. We do not run a server that stores your notes, decks or study history.</p>
+
+  <h2>1. Information stored only on your device</h2>
+  <p>The following data is created by you and stored locally in the app's private storage. We never receive it:</p>
+  <ul>
+    <li>Notes, flashcards, decks, tags and study/review history.</li>
+    <li>Photos you take or pick, and audio you record, to attach to a note.</li>
+    <li>Settings, themes, reminders, in-app coins and game progress.</li>
+    <li>Files you import (CSV, TSV, XLSX and similar) or export. These are only read or written when you choose a file.</li>
+  </ul>
+  <p>Uninstalling the app or clearing its data deletes all of this permanently. Make an export first if you want to keep a copy.</p>
+
+  <h2>2. Device permissions</h2>
+  <div class="wrap"><table>
+    <tr><th>Permission</th><th>Used for</th></tr>
+    <tr><td>Camera / Photos</td><td>Attaching a picture you choose to a note.</td></tr>
+    <tr><td>Microphone</td><td>Recording audio for a note, only while you tap record.</td></tr>
+    <tr><td>Notifications</td><td>Study reminders scheduled on your device.</td></tr>
+    <tr><td>Internet</td><td>Showing ads and, if you enable it, the optional AI feature below.</td></tr>
+  </table></div>
+  <p>Every permission is optional. You can refuse it or revoke it in Android settings; only the related feature stops working.</p>
+
+  <h2>3. Advertising (Google AdMob)</h2>
+  <p>The app shows banner ads on non-study screens and optional rewarded ads that you choose to watch for in-app coins. Ads are provided by Google AdMob. To serve and measure ads, the Google Mobile Ads SDK may collect and process:</p>
+  <ul>
+    <li>Device identifiers such as the Android Advertising ID, and app instance identifiers;</li>
+    <li>IP address and approximate location derived from it;</li>
+    <li>Device and app information (model, OS version, language, app version);</li>
+    <li>Ad interactions (views, clicks) and diagnostic/crash data related to ads.</li>
+  </ul>
+  <p>This data is collected and handled by Google, not by us, under the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>. See also <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a>.</p>
+  <p><strong>Consent.</strong> Where required by law (for example in the EEA, the UK and Switzerland, and certain US states), the app asks for your consent through Google's User Messaging Platform before personalized ads are shown. You can change your choice at any time from the privacy options in the app's Settings. You can also reset or delete your Advertising ID, or opt out of personalized ads, in Android Settings &rarr; Privacy &rarr; Ads.</p>
+
+  <h2>4. Optional AI feature</h2>
+  <p>AI is off by default. There are two ways to use it:</p>
+  <ul>
+    <li><strong>Your own Gemini API key.</strong> If you save a key, the app sends the note fields you select directly from your device to Google's Gemini API (<code>generativelanguage.googleapis.com</code>) over HTTPS, using your key. That content is processed under the terms of your own Google account and the <a href="https://ai.google.dev/gemini-api/terms">Gemini API Terms</a>. Your key is stored encrypted with Android Keystore, is never included in backups or exports, and is never sent to us. You can delete it in Settings at any time.</li>
+    <li><strong>External AI via file.</strong> The app can create a prompt that you copy into any AI service yourself, then import the result as a file. In this case the app sends nothing; what you paste into another service is governed by that service's policy.</li>
+  </ul>
+
+  <h2>5. What we do not do</h2>
+  <ul>
+    <li>We do not require an account and do not collect your name, email or contacts.</li>
+    <li>We do not sell your personal information.</li>
+    <li>We do not use your notes or study content for advertising.</li>
+  </ul>
+
+  <h2>6. Data sharing summary</h2>
+  <p>Data leaves your device only in these cases: ad-related data processed by Google AdMob (section 3), content you choose to send to Gemini with your own key (section 4), and files you choose to export or share.</p>
+
+  <h2>7. Security</h2>
+  <p>Data in transit to Google uses HTTPS. Local data lives in the app's private storage, which other apps cannot read. No method of storage or transmission is completely secure, but we limit what leaves your device to the cases above.</p>
+
+  <h2>8. Children</h2>
+  <p>The app is not directed to children under 13 and we do not knowingly collect personal information from them. If you believe a child has provided information through ads in the app, contact us and we will help.</p>
+
+  <h2>9. Your rights</h2>
+  <p>Because we hold no personal data on our own servers, your study data is fully under your control on the device: you can edit, export or delete it in the app. For ad data held by Google, use your Google account and Android ad settings, or the in-app privacy options. You may contact us with any privacy request.</p>
+
+  <h2>10. Changes</h2>
+  <p>We may update this policy when the app changes. The new version will be posted on this page with a new effective date.</p>
+
+  <h2>11. Contact</h2>
+  <p>Email: <a href="mailto:nam.ch1210@gmail.com">nam.ch1210@gmail.com</a></p>
+  </section>
+
+  <section id="vi">
+  <h2>Tóm tắt bằng tiếng Việt</h2>
+  <ul>
+    <li>Ghi chú, thẻ, bộ thẻ, lịch sử học, ảnh, ghi âm và cài đặt chỉ lưu trên máy bạn. Chúng tôi không có server lưu dữ liệu học của bạn. Gỡ app hoặc xoá dữ liệu app sẽ xoá toàn bộ.</li>
+    <li>Quyền camera, ảnh, micro, thông báo đều tuỳ chọn và chỉ dùng cho tính năng tương ứng.</li>
+    <li>App hiển thị quảng cáo Google AdMob (banner và quảng cáo có thưởng tự nguyện). Google có thể thu thập Advertising ID, địa chỉ IP, thông tin thiết bị và tương tác quảng cáo theo <a href="https://policies.google.com/privacy">Chính sách quyền riêng tư của Google</a>. Ở nơi luật yêu cầu, app xin đồng ý trước khi hiển thị quảng cáo cá nhân hoá; bạn đổi lựa chọn trong Cài đặt của app.</li>
+    <li>AI là tuỳ chọn. Nếu bạn lưu key Gemini của mình, nội dung field bạn chọn được gửi thẳng từ máy tới Google bằng key đó. Key được mã hoá trên máy và không gửi cho chúng tôi. Nếu dùng AI bên ngoài qua file, app không gửi gì đi.</li>
+    <li>Không cần tài khoản, không bán dữ liệu, không dành cho trẻ dưới 13 tuổi.</li>
+    <li>Liên hệ: <a href="mailto:nam.ch1210@gmail.com">nam.ch1210@gmail.com</a></li>
+  </ul>
+  </section>
+</main>
+</body>
+</html>
