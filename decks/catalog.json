@@ -1,0 +1,35 @@
+{
+  "catalog": {
+    "format": "mindrop-deck-catalog",
+    "formatVersion": 1,
+    "publishedAt": "2026-11-03T15:21:31.120Z",
+    "decks": [
+      {
+        "productId": "sample-basic-words",
+        "packageId": "sample-basic-words",
+        "title": {
+          "en": "Basic words (test deck)",
+          "vi": "Từ vựng cơ bản (deck thử)"
+        },
+        "description": {
+          "en": "8 common English words. A test deck for trying the shop.",
+          "vi": "8 từ tiếng Anh thông dụng. Deck thử để kiểm tra cửa hàng."
+        },
+        "price": 5,
+        "contentVersion": 1,
+        "noteCount": 8,
+        "relationCount": 0,
+        "mediaBytes": 0,
+        "packagePath": "sample-basic-words-v1.mindeck",
+        "packageBytes": 2083,
+        "packageSha256": "4dca7dffc13d31d20c43688dffa492561aecfcea785ef2c08891f0db660e2034",
+        "previewTerms": [
+          "apple",
+          "book",
+          "water"
+        ]
+      }
+    ]
+  },
+  "signature": "76e80d0d2bc6d398786d95d8539bc61dd04998dd5b8bf7efd7d48b74cf0563d4c1f51e8493d447991752da8368c27052cf67e27741358ee82a8a1047e5cad90f"
+}
