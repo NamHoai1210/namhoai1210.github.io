@@ -2,7 +2,7 @@
   "catalog": {
     "format": "mindrop-deck-catalog",
     "formatVersion": 1,
-    "publishedAt": "2026-11-03T15:21:31.120Z",
+    "publishedAt": "2026-11-03T15:53:27.693Z",
     "decks": [
       {
         "productId": "sample-basic-words",
@@ -28,8 +28,33 @@
           "book",
           "water"
         ]
+      },
+      {
+        "productId": "sample-travel-words",
+        "packageId": "sample-travel-words",
+        "title": {
+          "en": "Travel words (test deck)",
+          "vi": "Từ vựng du lịch (deck thử)"
+        },
+        "description": {
+          "en": "8 English words for travelling. A second test deck.",
+          "vi": "8 từ tiếng Anh hay gặp khi đi du lịch. Deck thử thứ hai."
+        },
+        "price": 8,
+        "contentVersion": 1,
+        "noteCount": 8,
+        "relationCount": 0,
+        "mediaBytes": 0,
+        "packagePath": "sample-travel-words-v1.mindeck",
+        "packageBytes": 2093,
+        "packageSha256": "0643bf23418eea4db281a50223b842f254e9ff3f736d86ae266c3f43aa438b7e",
+        "previewTerms": [
+          "airport",
+          "ticket",
+          "hotel"
+        ]
       }
     ]
   },
-  "signature": "76e80d0d2bc6d398786d95d8539bc61dd04998dd5b8bf7efd7d48b74cf0563d4c1f51e8493d447991752da8368c27052cf67e27741358ee82a8a1047e5cad90f"
+  "signature": "1a619c551b133292fafa01a7ab4bf53b2c617bb7642e04b2c7e235643ec406def7e654c1172933eb1e218a876cfd2225234a0acf1f87bf6e76e488c90078c60c"
 }
