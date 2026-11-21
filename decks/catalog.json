@@ -2,59 +2,35 @@
   "catalog": {
     "format": "mindrop-deck-catalog",
     "formatVersion": 1,
-    "publishedAt": "2026-11-03T15:53:27.693Z",
+    "publishedAt": "2026-11-21T08:31:04.567Z",
     "decks": [
       {
-        "productId": "sample-basic-words",
-        "packageId": "sample-basic-words",
+        "productId": "toeic-tsl",
+        "packageId": "tsl-1.2",
         "title": {
-          "en": "Basic words (test deck)",
-          "vi": "Từ vựng cơ bản (deck thử)"
+          "en": "TOEIC Service List: 1,250 essential words",
+          "vi": "TOEIC: 1.250 từ thiết yếu (TSL)"
         },
         "description": {
-          "en": "8 common English words. A test deck for trying the shop.",
-          "vi": "8 từ tiếng Anh thông dụng. Deck thử để kiểm tra cửa hàng."
+          "en": "The 1,250 words of the TOEIC Service List (Browne & Culligan, CC BY-SA 4.0) in 15 topics and 82 story scenes, with Vietnamese meanings, US IPA, linked examples and 308 extension words. Additions by Mindrop, also CC BY-SA 4.0.",
+          "vi": "1.250 từ của TOEIC Service List (Browne & Culligan, CC BY-SA 4.0) chia theo 15 chủ đề và 82 cảnh truyện, kèm nghĩa tiếng Việt, IPA Anh-Mỹ, ví dụ nối mạch và 308 từ mở rộng. Phần bổ sung do Mindrop thêm, cùng giấy phép CC BY-SA 4.0."
         },
-        "price": 5,
+        "price": 100,
         "contentVersion": 1,
-        "noteCount": 8,
-        "relationCount": 0,
+        "noteCount": 1558,
+        "relationCount": 570,
         "mediaBytes": 0,
-        "packagePath": "sample-basic-words-v1.mindeck",
-        "packageBytes": 2083,
-        "packageSha256": "4dca7dffc13d31d20c43688dffa492561aecfcea785ef2c08891f0db660e2034",
-        "previewTerms": [
-          "apple",
-          "book",
-          "water"
-        ]
-      },
-      {
-        "productId": "sample-travel-words",
-        "packageId": "sample-travel-words",
-        "title": {
-          "en": "Travel words (test deck)",
-          "vi": "Từ vựng du lịch (deck thử)"
-        },
-        "description": {
-          "en": "8 English words for travelling. A second test deck.",
-          "vi": "8 từ tiếng Anh hay gặp khi đi du lịch. Deck thử thứ hai."
-        },
-        "price": 8,
-        "contentVersion": 1,
-        "noteCount": 8,
-        "relationCount": 0,
-        "mediaBytes": 0,
-        "packagePath": "sample-travel-words-v1.mindeck",
-        "packageBytes": 2093,
-        "packageSha256": "0643bf23418eea4db281a50223b842f254e9ff3f736d86ae266c3f43aa438b7e",
+        "packagePath": "toeic-tsl-v1.mindeck",
+        "packageBytes": 215223,
+        "packageSha256": "57ac73df60f2f8a0182465f16b65d60bc6c24ace27d9dd68e2fed75b0a5dbf17",
         "previewTerms": [
           "airport",
-          "ticket",
-          "hotel"
+          "memo",
+          "reservation",
+          "vacation"
         ]
       }
     ]
   },
-  "signature": "1a619c551b133292fafa01a7ab4bf53b2c617bb7642e04b2c7e235643ec406def7e654c1172933eb1e218a876cfd2225234a0acf1f87bf6e76e488c90078c60c"
+  "signature": "f0544211009740c319a3bc7458d1561dc484d883ea182c7058857c8389e88f446eb712ad1784652b014062c10569686fc96a2f6ac6699256519cf1eb7db94d0b"
 }
