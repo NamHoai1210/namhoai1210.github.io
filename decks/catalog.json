@@ -2,7 +2,7 @@
   "catalog": {
     "format": "mindrop-deck-catalog",
     "formatVersion": 1,
-    "publishedAt": "2026-11-21T09:02:39.688Z",
+    "publishedAt": "2026-11-21T09:36:26.037Z",
     "decks": [
       {
         "productId": "toeic-tsl",
@@ -16,13 +16,13 @@
           "vi": "1.250 từ của TOEIC Service List (Browne & Culligan, CC BY-SA 4.0) chia theo 15 chủ đề và 82 cảnh truyện, kèm nghĩa tiếng Việt, IPA Anh-Mỹ, ví dụ nối mạch và 308 từ mở rộng. Phần bổ sung do Mindrop thêm, cùng giấy phép CC BY-SA 4.0."
         },
         "price": 100,
-        "contentVersion": 2,
+        "contentVersion": 3,
         "noteCount": 1558,
         "relationCount": 570,
         "mediaBytes": 0,
-        "packagePath": "toeic-tsl-v2.mindeck",
-        "packageBytes": 253056,
-        "packageSha256": "06200cdd7470a872fefc410af15abed5b31647746b0d3ed9c689a261117f3500",
+        "packagePath": "toeic-tsl-v3.mindeck",
+        "packageBytes": 253380,
+        "packageSha256": "8016f103a88bb652b673563bc9ed9170e25f2042d9fdb512414e180afe300139",
         "previewTerms": [
           "airport",
           "memo",
@@ -32,5 +32,5 @@
       }
     ]
   },
-  "signature": "b0913fb8129e645f0f9b58b6df0d03dd480121c8cf8d493ccf392f9bb7c4175e41d62608b27954648f60fccbe8b1ac8836f24aaa669d8f8c7a2f1a2269053309"
+  "signature": "3e1a502e57f99486c577144ff88512066728f40f64b30f9ef43b898d1a08b125123b9efe6b6be9b0e136475f6c2b75297113feb6d6dbff7527b827b637fb7800"
 }
