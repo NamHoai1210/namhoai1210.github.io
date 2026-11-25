@@ -2,8 +2,34 @@
   "catalog": {
     "format": "mindrop-deck-catalog",
     "formatVersion": 1,
-    "publishedAt": "2026-11-21T09:36:26.037Z",
+    "publishedAt": "2026-11-25T18:05:29.987Z",
     "decks": [
+      {
+        "productId": "academic-nawl",
+        "packageId": "nawl-1.2",
+        "title": {
+          "en": "NAWL: 957 essential academic words",
+          "vi": "NAWL: 957 từ học thuật thiết yếu"
+        },
+        "description": {
+          "en": "The 957 words of the New Academic Word List (Browne, Culligan & Phillips, CC BY-SA 4.0) in 15 academic fields, each learned through true sentences about real events, people, places and discoveries, with Vietnamese meanings and US IPA. Additions by Mindrop, also CC BY-SA 4.0.",
+          "vi": "957 từ của New Academic Word List (Browne, Culligan & Phillips, CC BY-SA 4.0) chia theo 15 lĩnh vực học thuật, học qua các câu đúng sự thật về sự kiện, nhân vật, địa danh và phát minh có thật, kèm nghĩa tiếng Việt và IPA Anh-Mỹ. Phần bổ sung do Mindrop thêm, cùng giấy phép CC BY-SA 4.0."
+        },
+        "price": 100,
+        "contentVersion": 1,
+        "noteCount": 957,
+        "relationCount": 139,
+        "mediaBytes": 0,
+        "packagePath": "academic-nawl-v1.mindeck",
+        "packageBytes": 168881,
+        "packageSha256": "fffaade00d1cf5b095f654f7e74f803bdb10b5216bfcebdd7e375190b206234b",
+        "previewTerms": [
+          "algorithm",
+          "ecology",
+          "migration",
+          "philosopher"
+        ]
+      },
       {
         "productId": "toeic-tsl",
         "packageId": "tsl-1.2",
@@ -32,5 +58,5 @@
       }
     ]
   },
-  "signature": "3e1a502e57f99486c577144ff88512066728f40f64b30f9ef43b898d1a08b125123b9efe6b6be9b0e136475f6c2b75297113feb6d6dbff7527b827b637fb7800"
+  "signature": "0a0d917e27b3f881790d0c03d7c27bf0fd933815c4cdef61607b46f37d0a31324ca0b9639c468eab48505b24a2510a5602e8e72ce73e93ec85f2fa07a66e840e"
 }
