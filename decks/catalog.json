@@ -2,7 +2,7 @@
   "catalog": {
     "format": "mindrop-deck-catalog",
     "formatVersion": 1,
-    "publishedAt": "2026-11-25T18:05:29.987Z",
+    "publishedAt": "2026-11-25T18:57:24.331Z",
     "decks": [
       {
         "productId": "academic-nawl",
@@ -16,13 +16,13 @@
           "vi": "957 từ của New Academic Word List (Browne, Culligan & Phillips, CC BY-SA 4.0) chia theo 15 lĩnh vực học thuật, học qua các câu đúng sự thật về sự kiện, nhân vật, địa danh và phát minh có thật, kèm nghĩa tiếng Việt và IPA Anh-Mỹ. Phần bổ sung do Mindrop thêm, cùng giấy phép CC BY-SA 4.0."
         },
         "price": 100,
-        "contentVersion": 1,
+        "contentVersion": 2,
         "noteCount": 957,
         "relationCount": 139,
         "mediaBytes": 0,
-        "packagePath": "academic-nawl-v1.mindeck",
-        "packageBytes": 168881,
-        "packageSha256": "fffaade00d1cf5b095f654f7e74f803bdb10b5216bfcebdd7e375190b206234b",
+        "packagePath": "academic-nawl-v2.mindeck",
+        "packageBytes": 168825,
+        "packageSha256": "6d84f6e131a8d616c7a288b2fb36f9b0007fdb75936a37840f03fbb73bd8e0d0",
         "previewTerms": [
           "algorithm",
           "ecology",
@@ -58,5 +58,5 @@
       }
     ]
   },
-  "signature": "0a0d917e27b3f881790d0c03d7c27bf0fd933815c4cdef61607b46f37d0a31324ca0b9639c468eab48505b24a2510a5602e8e72ce73e93ec85f2fa07a66e840e"
+  "signature": "2cb40105ffd2b39f9b6f9ab08e76d2f34b77a8199af565cd361ac40372bce8248efa2e6bbef517aaaae889fe7914882ca8ba67ceff5aa1b63f3a8e1dc0fb690d"
 }
